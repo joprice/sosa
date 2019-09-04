@@ -2,3 +2,7 @@ _build/
 *.cmp
 sosa_tests
 doc
+_build/
+.merlin
+.ocamlinit
+*.install
